@@ -4,7 +4,7 @@ The full CodeRed hands-on catalog in one place: 410 CTF challenges and 613 hands
 
 CodeRed is EC-Council's learning platform. Create a free account for 15 CTFs, 15 labs and 25+ video courses: [coderedpro.com](https://coderedpro.com/?utm_source=github&utm_medium=repo_readme&utm_campaign=github_ctf_labs). The rest of the catalog is included with CodeRed Pro.
 
-Looking for just the free items? See [free-cybersecurity-learning](https://github.com/ec-council-learning/free-cybersecurity-learning).
+Looking for just the free items? See [free-cybersecurity-learning](https://github.com/CodeRed-by-EC-Council/free-cybersecurity-learning).
 
 ## At a glance
 | | Beginner | Intermediate | Advanced | Total |
