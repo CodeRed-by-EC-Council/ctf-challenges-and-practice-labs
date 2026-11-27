@@ -1,4 +1,4 @@
-# All hands-on labs (613)
+# All 613 hands-on cybersecurity labs by track and level
 
 [Back to README](README.md)
 
