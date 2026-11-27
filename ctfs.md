@@ -1,4 +1,4 @@
-# All CTF challenges (410)
+# All 410 CTF challenges by level: beginner, intermediate and advanced
 
 [Back to README](README.md)
 
